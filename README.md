@@ -1,6 +1,12 @@
-<h3 align="center">Node Version Manager - Comandos</h3>
-
-<table>
+<table align="center">
+  <tr>
+    <th colspan="2"><h3 align="center">Node Version Manager - Comandos</h3></th>
+  </tr>
+  
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  
   <tr>
     <th>Comando:</th>
     <th>Descrição:</th>
@@ -30,6 +36,17 @@
     <td>nvm uninstall numero-versao</td>
     <td>Desinstalar uma versão.</td>
   </tr>
+  
+  <tr>
+    <td>nvm use numero-versao</td>
+    <td>Usar uma versão do Node.js.</td>
+  </tr>
+  
+  <tr>
+    <th colspan="2"></th>
+  </tr>
+  
+  <tr>
+    <th colspan="2" align="left"><a href="https://github.com/coreybutler/nvm-windows/releases">Download - Windows</a></th>
+  </tr>
 </table>
-
-[Download - Windows](https://github.com/coreybutler/nvm-windows/releases)
