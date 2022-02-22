@@ -10,6 +10,11 @@
     <td>nvm ls</td>
     <td>Listar versões instaladas.</td>
   </tr>
+  
+  <tr>
+    <td>nvm install <version></td>
+    <td>Instalar uma versão.</td>
+  </tr>
 </table>
 
 [Download - Windows](https://github.com/coreybutler/nvm-windows/releases)
