@@ -47,6 +47,6 @@
   </tr>
   
   <tr>
-    <th colspan="2" align="left"><a href="https://github.com/coreybutler/nvm-windows/releases">Download - Windows</a></th>
+    <th colspan="2" align="left"><a href="https://github.com/coreybutler/nvm-windows/releases">Download - Windows (nvm-setup.zip)</a></th>
   </tr>
 </table>
