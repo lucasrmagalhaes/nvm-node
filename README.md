@@ -10,6 +10,11 @@
     <td>nvm arch</td>
     <td>Mostra se o Node.js está rodando em 32 ou 64 bits.</td>
   </tr>
+  
+  <tr>
+    <td>nvm current</td>
+    <td>Mostra a versão ativa.</td>
+  </tr>
  
   <tr>
     <td>nvm ls</td>
