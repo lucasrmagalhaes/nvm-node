@@ -12,8 +12,13 @@
   </tr>
   
   <tr>
-    <td>nvm install <version></td>
+    <td>nvm install numero-versao</td>
     <td>Instalar uma versão.</td>
+  </tr>
+  
+  <tr>
+    <td>nvm uninstall numero-versao</td>
+    <td>Desinstalar uma versão.</td>
   </tr>
 </table>
 
