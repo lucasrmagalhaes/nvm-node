@@ -17,7 +17,7 @@
   </tr>
  
   <tr>
-    <td>nvm ls</td>
+    <td>nvm ls ou nvm list</td>
     <td>Listar versões instaladas.</td>
   </tr>
   
