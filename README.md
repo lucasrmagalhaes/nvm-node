@@ -31,6 +31,11 @@
     <td>nvm install numero-versao</td>
     <td>Instalar uma versão.</td>
   </tr>
+
+  <tr>
+    <td>nvm install --lts</td>
+    <td>Instalar a versão lts.</td>
+  </tr>
   
   <tr>
     <td>nvm uninstall numero-versao</td>
